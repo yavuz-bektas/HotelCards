@@ -1,6 +1,6 @@
-# hotels_up_to_date
 
-## How to accept post in adminpanel?
+
+## HotelCards
 ![Dash](https://github.com/yavuz-bektas/HotelCards/blob/main/src/assets/short.gif)
 
 
