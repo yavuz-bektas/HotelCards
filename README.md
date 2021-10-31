@@ -1,7 +1,7 @@
 
 # Demo
 
-http://3.16.214.155/
+http://3.16.214.155/hotelcard
 
 ## HotelCards
 ![Dash](https://github.com/yavuz-bektas/HotelCards/blob/main/src/assets/short.gif)
