@@ -1,0 +1,56 @@
+{
+  "Hotels": [
+    {
+      "id":1,
+      "HotelName": "Cleopatra City Hotel",
+      "Star": 3,
+      "Location": "KIZLARPINARI CD.KIZLARPINARI MAH NO 48, 07400 Antalya",
+      "Image": "https://imgcy.trivago.com/if_ar_gte_1.2/c_lfill,g_auto,h_450,q_auto,w_980/if_else/c_limit,h_450,q_auto,w_980/if_end/d_dummy.jpeg,e_sharpen:60,f_auto/uploadimages/52/17/52178064",
+      "Price": 250,
+      "Review": "Çok iyi (45 değerlendirme)",
+      "Beach" : "Plaja 0.2 km mesafede",
+      "Description":"İster turist olun, ister iş seyahatinde olun, Hotel Cleopatra Palace, Tenerife'yi ziyaret ederken konaklama için mükemmel bir seçimdir. Konuklar buradan canlı şehrin sunduğu her şeyden en iyi şekilde yararlanabilirler. Elverişli konumu ile tesis, şehrin görülmesi gereken yerlerine kolay ulaşım imkanı sunmaktadır.",
+      "ContentofHotel" : ["Tesiste çocuk misafir kabul edilir.","Ofis & Toplantı","Genel Alanlar","Yiyecek & İçecek","Spor"],
+      "NotContentofHotel": [" Rehber köpek kabul edilmez."," Ekstra yatak sağlanmaz."," Ücretsiz konaklayan misafirlerimiz için ilave yatak hizmeti garantisi verilememektedir."]
+    },
+    {
+      "id":2,
+      "HotelName": "Akra Wyndham Hotel",
+      "Star": 5,
+      "Location": "Lara Yolu , Muratpasa, Antalya Şehir Merkezi, Antalya, Türkiye, 07100",
+      "Image": "https://pix8.agoda.net/hotelImages/566586/0/7fbd2498ad201792b75f3ea5e78ac125.jpg?ca=19&ce=1&s=1024x768",
+      "Price": 300,
+      "Review": "Mükemmel (60 değerlendirme)",
+      "Beach" : "Plaja 0.1 km mesafede",
+      "Description": "Tatil ya da iş odaklı seyahatlerde keyifli bir tatil imkanız sunan Akra, misafirlerini Antalya, Lara'da ağırlıyor. Denize sıfır konumdaki tesisin, plajda kendine ait bir platformu mevcut.Tesisin seyrine doyum olmayan Akdeniz manzarasına sahip odalarında; LED TV, uydu yayını, klima, su ısıtıcı, çay-kahve seti, kasa, çalışma masası ve balkon bulunuyor. Tesis misafirlerine; çamaşırhane, bagaj muhafazası, kuru temizleme, ütü hizmeti, kuaför, 24 saat açık resepsiyon ve ücretsiz özel otopark gibi olanaklar sağlıyor.Fitness merkezi ve tenis kortu (min.2 gün önceden rezervasyon gerekli), spor yapmak isteyen misafirler için gün boyu açık oluyor.",
+      "ContentofHotel" : ["Tesiste çocuk misafir kabul edilir.","Ofis & Toplantı","Genel Alanlar","Yiyecek & İçecek","Spor"],
+      "NotContentofHotel": [" Rehber köpek kabul edilmez."," Ekstra yatak sağlanmaz."," Ücretsiz konaklayan misafirlerimiz için ilave yatak hizmeti garantisi verilememektedir."]
+    },
+    {
+      "id":3,
+      "HotelName": "Rixos Downtown Antalya Hotel",
+      "Star": 5,
+      "Location": "Sakip Sabanci Bulvari Antalya / Türkiye",
+      "Image": "https://images.odamax.com/img/800x600/odamax/image/upload/gsrxztlsn756vjmdnlox.jpg",
+      "Price": 600,
+      "Review": "Mükemmel (300 değerlendirme)",
+      "Beach" : "Plaja 0.5 km mesafede",
+      "Description":"Antalya Şehir Merkezinde iyi bir konuma sahip olan Rixos Downtown Hotel, Antalya gezileriniz için ideal bir hareket noktasıdır. Şehir merkezine sadece 3 kilometre uzaklıktaki tesisin stratejik konumu, konukların yerel ilgi çekici birçok noktaya hızlı ve kolay bir şekilde ulaşmasını sağlar. Antalya Müzesi, Antalya Arkeoloji Müzesi, Konyaaltı Plajı gibi şehrin başlıca turistik mekanlarına yakın mesafede olması nedeniyle, mülkün ziyaretçileri konumunu çok sevecek. Rixos Downtown Hotel'de mükemmel hizmet ve üstün olanaklar unutulmaz bir konaklama geçirmenizi sağlar.",
+      "ContentofHotel" : ["Tesiste çocuk misafir kabul edilir.","Ofis & Toplantı","Genel Alanlar","Yiyecek & İçecek","Spor"],
+      "NotContentofHotel": [" Rehber köpek kabul edilmez."," Ekstra yatak sağlanmaz."," Ücretsiz konaklayan misafirlerimiz için ilave yatak hizmeti garantisi verilememektedir."]
+    },
+    {
+      "id":4,
+      "HotelName": "Hotel Puding Marina Residence",
+      "Star": 3,
+      "Location": "Mermerli Sokak No.15, Kaleiçi, Antalya Şehir Merkezi, Antalya, Türkiye, 07100",
+      "Image": "https://q-xx.bstatic.com/xdata/images/hotel/840x460/280458392.jpg?k=e8d6e29056d75f4fe0bc4a668479ebb596b85c48015948a578acac77ebb48213&o=",
+      "Price": 75,
+      "Review": "İyi (15 değerlendirme)",
+      "Beach":"Otobüs ile 5 dk",
+      "Description":"Antalya şehrini ziyaretinizde, sunduğu konfor ve hizmet anlayışıyla Puding Marina Residence - Special Category sizi evinizde hissettirecek. Otel şehir merkezine çok uzak değil. Sadece 1 km uzaklıkta ve havaalanı sadece 20 dakika. Otel Kaleiçi Marina, Kaleiçi, Antaliiskaya Fortress gibi yerlerin yakınında bulunduğundan gezi programları ve görülecek yerler konusunda bu otelden başka bir yer aramanıza gerek görünmüyor.",
+      "ContentofHotel" : ["Tesiste çocuk misafir kabul edilir.","Ofis & Toplantı","Genel Alanlar","Yiyecek & İçecek","Spor"],
+      "NotContentofHotel": [" Rehber köpek kabul edilmez."," Ekstra yatak sağlanmaz."," Ücretsiz konaklayan misafirlerimiz için ilave yatak hizmeti garantisi verilememektedir."]
+    }
+  ]
+}
